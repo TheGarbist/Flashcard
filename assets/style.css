@@ -1,3 +1,13 @@
+:root{
+    --branco-principal: bisque;
+    --footer: rgb(2,4,68);
+    
+}
 body{
-    background-color: bisque;
+    background-color:var(--branco-principal);
+}
+
+footer{
+    background-color: rgb(3, 4, 68);
+    color: antiquewhite;
 }
