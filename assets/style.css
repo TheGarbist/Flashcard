@@ -40,6 +40,7 @@ footer{
     width:100% ;
     bottom: 0;
     height: 2rem;
+    display: flex;
 }
 
 footer p{
